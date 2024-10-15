@@ -6,7 +6,7 @@ University of Nebraska
 <!-- Each Chapter should be one Big Notebook each -->
 - Introduction
     - [ x ] Problem Solving
-    - [ ] Computing Basics
+    - [ x ] Computing Basics
     - [ ] Basic Program Structure
     - [ ] Syntax Rules and Pseudocode
     - [ ] Documentation, Comments, Coding Style
