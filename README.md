@@ -7,10 +7,18 @@ University of Nebraska
 - Introduction
     - [ x ] Problem Solving
     - [ x ] Computing Basics
-    - [ ] Basic Program Structure
-    - [ ] Syntax Rules and Pseudocode
-    - [ ] Documentation, Comments, Coding Style
+    - [ x ] Basic Program Structure
+    - [ x ] Syntax Rules and Pseudocode
+    - [ x ] Documentation, Comments, Coding Style
+    
 - Basics
+    - [ ] Control Flow
+    - [ ] Variables
+    - [ ] Operators
+    - [ ] Basic Input/Output
+    - [ ] Debugging
+    - [ ] Examples 
+    - [ ] Exercises
 - Conditionals
 - Loops
 - Functions
