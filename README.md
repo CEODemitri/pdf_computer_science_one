@@ -12,9 +12,9 @@ University of Nebraska
     - [ x ] Documentation, Comments, Coding Style
     
 - Basics
-    - [ ] Control Flow
-    - [ ] Variables
-    - [ ] Operators
+    - [ x ] Control Flow
+    - [ x ] Variables
+    - [ x ] Operators
     - [ ] Basic Input/Output
     - [ ] Debugging
     - [ ] Examples 
