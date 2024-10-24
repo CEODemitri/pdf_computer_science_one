@@ -22,6 +22,9 @@ University of Nebraska
             - 3 problems completed. 24 more to go
             - extra practice, could leave here
 
+Seems I forgot to add some code in the first two section. 
+will revise but not priority.
+
 - Conditionals
     - [ ] Logical Operators
     - [ ] If Statement
