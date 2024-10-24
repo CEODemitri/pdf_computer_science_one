@@ -15,12 +15,23 @@ University of Nebraska
     - [ x ] Control Flow
     - [ x ] Variables
     - [ x ] Operators
-    - [ ] Basic Input/Output
-    - [ ] Debugging
-    - [ ] Examples 
-    - [ ] Exercises
+    - [ x ] Basic Input/Output
+    - [ x ] Debugging
+    - [ x ] Examples 
+    - [ x ] Exercises
+            - 3 problems completed. 24 more to go
+            - extra practice, could leave here
 
 - Conditionals
+    - [ ] Logical Operators
+    - [ ] If Statement
+    - [ ] If Else Statement
+    - [ ] If Else If Statement
+    - [ ] Ternary Operators
+    - [ ] Ternary If Statement
+    - [ ] Examples
+    - [ ] Exercises
+    
 - Loops
 - Functions
 - Error Handling
