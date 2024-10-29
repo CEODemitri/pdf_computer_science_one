@@ -26,9 +26,9 @@ Seems I forgot to add some code in the first two section.
 will revise but not priority.
 
 - Conditionals
-    - [ ] Logical Operators
-    - [ ] If Statement
-    - [ ] If Else Statement
+    - [ x ] Logical Operators
+    - [ x ] If Statement
+    - [ x ] If Else Statement
     - [ ] If Else If Statement
     - [ ] Ternary Operators
     - [ ] Ternary If Statement
