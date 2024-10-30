@@ -31,7 +31,7 @@ will revise but not priority.
     - [ x ] If Else Statement
     - [ x ] If Else If Statement
     - [ x ] Ternary If Statement
-    - [ ] Examples
+    - [ x ] Examples
     - [ ] Exercises
     
 - Loops
