@@ -29,9 +29,8 @@ will revise but not priority.
     - [ x ] Logical Operators
     - [ x ] If Statement
     - [ x ] If Else Statement
-    - [ ] If Else If Statement
-    - [ ] Ternary Operators
-    - [ ] Ternary If Statement
+    - [ x ] If Else If Statement
+    - [ x ] Ternary If Statement
     - [ ] Examples
     - [ ] Exercises
     
