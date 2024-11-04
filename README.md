@@ -1,6 +1,7 @@
 # Computer Science 1
 Dr Chris Bourke
 University of Nebraska
+Time: 
 
 [Fill in the Section of each Chapter as Completed]
 <!-- Each Chapter should be one Big Notebook each -->
@@ -35,8 +36,8 @@ will revise but not priority.
     - [ - ] Exercises
     
 - Loops
-    - [ - ] While Loops
-    - [ - ] For Loops
+    - [ x ] While Loops
+    - [ x ] For Loops
     - [  ] Do-While Loops
     - [  ] Foreach Loops
     - [  ] Other Issues
