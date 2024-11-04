@@ -36,7 +36,7 @@ will revise but not priority.
     
 - Loops
     - [ - ] While Loops
-    - [  ] For Loops
+    - [ - ] For Loops
     - [  ] Do-While Loops
     - [  ] Foreach Loops
     - [  ] Other Issues
