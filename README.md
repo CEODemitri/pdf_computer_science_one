@@ -32,9 +32,18 @@ will revise but not priority.
     - [ x ] If Else If Statement
     - [ x ] Ternary If Statement
     - [ x ] Examples
-    - [ ] Exercises
+    - [ - ] Exercises
     
 - Loops
+    - [ - ] While Loops
+    - [  ] For Loops
+    - [  ] Do-While Loops
+    - [  ] Foreach Loops
+    - [  ] Other Issues
+    - [  ] Problem Solving with Loops
+    - [  ] Examples
+    - [  ] Exercises
+
 - Functions
 - Error Handling
 - Arrays, Collections, Dynamic Memory
