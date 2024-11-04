@@ -1,7 +1,7 @@
 # Computer Science 1
 Dr Chris Bourke
 University of Nebraska
-Time: 
+Time: 6hrs
 
 [Fill in the Section of each Chapter as Completed]
 <!-- Each Chapter should be one Big Notebook each -->
@@ -20,7 +20,7 @@ Time:
     - [ x ] Debugging
     - [ x ] Examples 
     - [ x ] Exercises
-            - 3 problems completed. 24 more to go
+            - 3 problems completed. 12 more to go
             - extra practice, could leave here
 
 Seems I forgot to add some code in the first two section. 
@@ -38,8 +38,8 @@ will revise but not priority.
 - Loops
     - [ x ] While Loops
     - [ x ] For Loops
-    - [  ] Do-While Loops
-    - [  ] Foreach Loops
+    - [ x ] Do-While Loops
+    - [ x ] Foreach Loops
     - [  ] Other Issues
     - [  ] Problem Solving with Loops
     - [  ] Examples
