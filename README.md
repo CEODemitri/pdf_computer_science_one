@@ -40,9 +40,9 @@ will revise but not priority.
     - [ x ] For Loops
     - [ x ] Do-While Loops
     - [ x ] Foreach Loops
-    - [  ] Other Issues
-    - [  ] Problem Solving with Loops
-    - [  ] Examples
+    - [ x ] Other Issues
+    - [ x ] Problem Solving with Loops
+    - [ - ] Examples
     - [  ] Exercises
 
 - Functions
