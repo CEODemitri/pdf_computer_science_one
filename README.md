@@ -9,7 +9,7 @@ Time: 6hrs
 # Section 
 ## SubSection
 ### Topic
-* Key information to remember 
+- Key information to remember || some old places may use * ..content
 
 -- each subsection should be its own jupyter box with containing subtopics
 
@@ -61,7 +61,7 @@ will revise but not priority.
 
 - Functions
     - [ x ] Defining & Using Functions
-    - [  ] How Functions Work
+    - [ x ] How Functions Work
     - [  ] Other Issues
     - [  ] Exercises
 
