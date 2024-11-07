@@ -3,6 +3,18 @@ Dr Chris Bourke
 University of Nebraska
 Time: 6hrs
 
+<!-- 
+
+# Chapter
+# Section 
+## SubSection
+### Topic
+* Key information to remember 
+
+-- each subsection should be its own jupyter box with containing subtopics
+
+-->
+
 [Fill in the Section of each Chapter as Completed]
 <!-- Each Chapter should be one Big Notebook each -->
 - Introduction
@@ -43,9 +55,18 @@ will revise but not priority.
     - [ x ] Other Issues
     - [ x ] Problem Solving with Loops
     - [ - ] Examples
-    - [  ] Exercises
+    - [ - ] Exercises
+    <!-- why 34 exercies? -->
+    <!-- definetely need more coding exercises but not from this book right now. reading is tremendous enough -->
 
 - Functions
+    - [ x ] Defining & Using Functions
+    - [  ] How Functions Work
+    - [  ] Other Issues
+    - [  ] Exercises
+
+
+
 - Error Handling
 - Arrays, Collections, Dynamic Memory
 - Strings

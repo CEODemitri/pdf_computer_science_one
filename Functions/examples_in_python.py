@@ -6,3 +6,12 @@ def greet(name = "World"):
     print ("Hello " + name)
 
 greet("Hannah")
+
+
+def upperCase(string):
+    return string.upper()
+
+print(upperCase("hello"))
+
+
+# complex function
