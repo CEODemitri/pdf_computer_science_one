@@ -62,7 +62,7 @@ will revise but not priority.
 - Functions
     - [ x ] Defining & Using Functions
     - [ x ] How Functions Work
-    - [  ] Other Issues
+    - [ x ] Other Issues
     - [  ] Exercises
 
 
