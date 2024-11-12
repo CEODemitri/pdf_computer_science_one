@@ -65,3 +65,26 @@ print(scientific_scale(400))
 # 5.4 :: write a function that sums value of digits of given number 
 
 
+# 5.5 :: write a function to convert radians to degrees with formula | deg = (180 * rad)/π |
+# BONUS * convert degrees to radians
+
+
+## 5.6 :: compute diameter, circumference and area of a circle given its radius. 
+# **if support pass by reference, compute all three in one function
+
+## 5.9 :: compute air distance between two locations given longitude and latitude
+
+
+## 5.10 :: convert RGB color to CMYK 
+
+
+## 5.11 convert rgb to a grayscale [three techniques-- luinosity, lightness, average methods]
+
+
+## 5.13 compute a square root
+def squared(x):
+    absolute = abs(x)
+    return absolute * absolute
+
+print(squared(-5))
+print(squared(-20))
