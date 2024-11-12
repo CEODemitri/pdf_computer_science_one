@@ -64,6 +64,7 @@ will revise but not priority.
     - [ x ] How Functions Work
     - [ x ] Other Issues
     - [  ] Exercises
+    0. whooped day 000 5.3 - 5.5. having to reread multiple time for clarity and then brick wall learning to climb over slowly for now. No rush, making sure creating value, opposite of wasting time.
 
 
 
