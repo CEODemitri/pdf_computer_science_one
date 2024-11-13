@@ -63,13 +63,16 @@ will revise but not priority.
     - [ x ] Defining & Using Functions
     - [ x ] How Functions Work
     - [ x ] Other Issues
-    - [  ] Exercises
+    - [ - ] Exercises
     0. whooped day 000 5.3 - 5.5. having to reread multiple time for clarity and then brick wall learning to climb over slowly for now. No rush, making sure creating value, opposite of wasting time.
     1. day 000 pt 2 5.5 - 5.13 finally i beat one
-
-
+    2. ### **day 001 nine exercises to complete section**
 
 - Error Handling
+    - [  ] Error Handling
+    - [  ] Error Handling Strategies
+    - [  ] Exercises
+    
 - Arrays, Collections, Dynamic Memory
 - Strings
 - File Input/Output

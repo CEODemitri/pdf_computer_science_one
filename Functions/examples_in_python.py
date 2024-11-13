@@ -88,3 +88,18 @@ def squared(x):
 
 print(squared(-5))
 print(squared(-20))
+
+
+# write a collection of functions that convert from: kilograms force, pounds, ounces, or Newtons
+# 1 kgf = 2.20462 pounds
+# 16 oz = 1 pound
+# 1 kgf = 9.80665 Newtons
+
+
+# 5.15 :: write a function that converts from: kilometer, mile, nautical mile and furlong
+# 1 mile = 1.609347219 kilometers
+# 1 nautical mile = 1.15078 miles
+# 1 furlong = 1/8 mile
+
+
+
