@@ -69,7 +69,7 @@ will revise but not priority.
     2. ### **day 001 nine exercises to complete section**
 
 - Error Handling
-    - [  ] Error Handling
+    - [ x ] Error Handling
     - [  ] Error Handling Strategies
     - [  ] Exercises
     
