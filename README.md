@@ -70,7 +70,7 @@ will revise but not priority.
 
 - Error Handling
     - [ x ] Error Handling
-    - [  ] Error Handling Strategies
+    - [ x ] Error Handling Strategies
     - [  ] Exercises
     
 - Arrays, Collections, Dynamic Memory
