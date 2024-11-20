@@ -74,7 +74,7 @@ will revise but not priority.
     - [ - ] Exercises | Computer Generated. I proofread the content but super simple, nothing extrordinary
     
 - Arrays, Collections, Dynamic Memory
-    - [  ] Basic Usage
+    - [ x ] Basic Usage
     <!-- review simple exercises from error. too easy to ignore. then delete this comment -->
     - [  ] Static & Dynamic Memory
     - [  ] Multidimensional Arrays
