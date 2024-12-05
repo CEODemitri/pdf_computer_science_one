@@ -7,4 +7,4 @@
 # write a function to compute the mean(average) of an array of numbers
 
 
-# write a fn to cpmpute the standard deviation of an array of numbers
+# write a fn to compute the standard deviation of an array of numbers
